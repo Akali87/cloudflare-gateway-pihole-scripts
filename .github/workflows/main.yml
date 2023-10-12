@@ -1,3 +1,4 @@
+
 name: Add Rules to Cloudflare Gateway
 on:
   schedule:
